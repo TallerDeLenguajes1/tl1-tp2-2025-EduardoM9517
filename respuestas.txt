@@ -1,0 +1,11 @@
+
+¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+ Si puedo ver el archivo tp2_1_2.c donde inicialize mi repositorio, por que esta ubicado en el nuevo branch que eh creado, que lleva por nombre Opcion_2.
+
+
+En VSCode vuelva al “Source Control” ¿Qué diferencias nota?
+ Cuando vuelvo al Source Control la diferencia que encuentro es la siguiente: estan todos mis branch creados, estan mis remote branch, etc.
+
+
+En VSCode vuelva al “Source Control” vea los cambios, ¿Qué nota?
+ Cuando vuelvo a source control los cambios que veo son los siguientes: puedo ver las modificaciones que le agregue y quite a mi archivo.c, el archivo.c puedo ver si lo movi a alguna carpeta (ej: si estaba en la carpeta cambio, ahora esta en carpeta de lista de cambios preparados).
